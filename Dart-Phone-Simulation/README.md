@@ -1,4 +1,5 @@
-# Dart Phone Simulation
+# Python
+Phone Simulation
 A Dart program simulating basic phone functionality, including actions that affect the phone's battery level.
 
 ## Skills demonstrated:
