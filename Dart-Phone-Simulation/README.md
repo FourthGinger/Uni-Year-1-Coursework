@@ -3,8 +3,8 @@ A Dart program simulating basic phone functionality, including actions that affe
 
 ## Skills demonstrated:
 
--Dart
--Object-oriented programming
--State management
--Conditional logic
--Modelling the behaviour of a simple system
+- Dart
+- Object-oriented programming
+- State management
+- Conditional logic
+- Modelling the behaviour of a simple system
